@@ -1,6 +1,6 @@
 # Maintainer: Eric Torres <erictorres4@protonmail.com>
 pkgname=snapraid-helpers
-pkgver="1.0.0"
+pkgver="1.0.1"
 pkgrel=1
 pkgdesc="Set of helper units/scripts for snapraid"
 arch=(any)
